@@ -1,0 +1,28 @@
+@mixin btn {
+    color: #060a24;
+    letter-spacing: 0px;
+    line-height: 22px;  
+    background-color: #00f3bb;
+    width: 288px;
+    height: 48px; 
+    margin: 0 auto;
+    cursor: pointer;
+}
+@mixin paragraph {
+    color: #060a24;
+    letter-spacing: 0px;
+    line-height: 22px;
+}
+@mixin common-headings {
+    letter-spacing: 0px;
+    line-height: 42px;  
+}
+@mixin heading-d { 
+    color: #060a24;
+    letter-spacing: 0px; 
+    line-height: 42px;  
+}  
+@mixin subheadings{
+    color: #060a24;
+    letter-spacing: 0px; 
+}
